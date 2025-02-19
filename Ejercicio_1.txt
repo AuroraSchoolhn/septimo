@@ -1,0 +1,4 @@
+Titulo: Aurora School 28px
+Subtitulo: Su nombre 20px
+Parrafo: 10 palabras 12 px
+Imagen relacionada con la tecnologia.

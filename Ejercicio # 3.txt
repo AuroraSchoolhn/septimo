@@ -1,0 +1,4 @@
+Realice una presentacion con el crecimiento de las plantas.
+Tome la plantilla de las opciones de Diagramas (Nuevo),
+Investigue sobre ese tema, luego finalice con una conclusion
+en otra diapositiva.

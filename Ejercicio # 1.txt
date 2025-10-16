@@ -1,6 +1,0 @@
-Investigacion acreca del IOT (El internet de las cosas)
-1. Que es el IOT?
-2. Como funciona?
-3. Ejemplos del uso cotidiano (3 ejemplos)
-
-Nota: La presentacion la realizara en power point (animaciones y transiciones)

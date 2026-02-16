@@ -1,3 +1,3 @@
 Buenas tardes estudiantes de septimo grado, deben realizar los siguientes ejercicios:
-1. Mostrar 10 parrafos automatico con la funcion =rand(10)
+1. Mostrar 10 parrafos de forma automatica con la funcion =rand(10)
 2. Usando la barra de tareas vamos a ejecutar la mayoria de botones del menu Inicio

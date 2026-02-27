@@ -1,0 +1,11 @@
+Valor: 5 puntos
+
+Les detallo los ejercicios que van a realizar en la clase:
+
+1. Crear 5 parrafos en word
+2. Hacer el justificado en ambos lados
+3. El segundo parrafo todas las letras deben estar en mayuscula
+4. Reemplace todas las palabras Word por Microsoft Word
+5. Todas las primeras letras de cada parrafo deben tener el tamaño de letra 30 
+6. La fuente para todos los parrafos es "Verdana"
+7. Inserte 4 diferentes formas basicas

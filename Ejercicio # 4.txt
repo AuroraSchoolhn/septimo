@@ -1,5 +1,0 @@
-Deben realizar lo siguiente en word:
-1. Crear una portada con los datos de la escuela y sus datos personales
-2. En la segunda hoja un encabezado que tenga como titulo "Ejercicio # 4"
-3. Crear 10 parrafos, con el justificado en ambos lados (derecho e izquierdo)
-4. Insertar una imagen que este centrada en los parrafos.

@@ -1,0 +1,3 @@
+Realice el siguiente ejercicio:
+Redacte un libro, con portada, dedicatoria, prologo, indice, contenido y conclusiones.
+Tema: La tecnologia y el efecto en los adolecentes

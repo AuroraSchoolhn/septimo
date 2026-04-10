@@ -1,5 +1,0 @@
-Pasos:
-Ingrese a microsoft word
-Presiona la tecla Crtl + F9
-Escriba: displaybarcode "enlace de sitio"qr\s300
-Por ultimo presione F9
